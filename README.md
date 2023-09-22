@@ -1,4 +1,4 @@
-# Tópicos Avanzado En Analítica
+# Tópicos Avanzados En Analítica
 
 En este repositorio se encuentra el desarrollo de las tares del módulo de procesamiento de lenguaje natural. 
 
@@ -9,4 +9,3 @@ En este repositorio se encuentra el desarrollo de las tares del módulo de proce
 - Andres Felipe Daza 
 - Rosana Torres Cardona
 - Monica Perez Morales
-
